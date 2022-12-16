@@ -1,3 +1,4 @@
+<!--App.vue-->
 <template>
     <div id="app">
         <DetectImage msg="What do you see?" />
